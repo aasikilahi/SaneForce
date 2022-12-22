@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SaneForceApplication</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="click_to_select_images">Click to select Images</string>
+    <string name="doctor_list">Doctor List</string>
+    <string name="map_doctors">Map Doctors</string>
+    <string name="gallery">Gallery</string>
+    <string name="mobile_no">Mobile No</string>
+    <string name="category">Category</string>
+    <string name="name">Name</string>
+    <string name="town_code">Town Code</string>
+    <string name="spec">Speciality</string>
+    <string name="address">Address</string>
+    <string name="drdesign">DrDesign</string>
+    <string name="need_to_add_the_api_key_to_view_map">Need to Add the API Key to View MAP</string>
+    <string name="san">SANeForce</string>
+</resources>
